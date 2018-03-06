@@ -2,6 +2,7 @@
 
 This test should PASS the autotester because it has a properly formatted metadata section.
 
+It should still pass!
 
 <!--- ============================================================================= --->
 <!---
